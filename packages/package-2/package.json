@@ -1,0 +1,7 @@
+{
+  "name": "package-2",
+  "version": "0.0.1",
+  "main": "dist/package-2.cjs.js",
+  "module": "dist/package-2.esm.js",
+  "license": "MIT"
+}
